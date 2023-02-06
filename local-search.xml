@@ -4,23 +4,23 @@
   
   
   <entry>
-    <title>第一篇Blog</title>
+    <title>关于这个站</title>
     <link href="/2023/02/06/%E7%AC%AC%E4%B8%80%E7%AF%87Blog/"/>
     <url>/2023/02/06/%E7%AC%AC%E4%B8%80%E7%AF%87Blog/</url>
     
-    <content type="html"><![CDATA[<p>Hello World!</p>]]></content>
+    <content type="html"><![CDATA[<p>本站通过 Hexo + GitHub 搭建，并由 阿里云 提供域名（mayuzhuonor.top）。</p><p>由于GitHub服务器位于境外，本站访问速度一般。</p><p>现采用<a href="[fluid-dev/hexo-theme-fluid: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (github.com">fluid</a>](<a href="https://github.com/fluid-dev/hexo-theme-fluid))主题，效果如站所示。">https://github.com/fluid-dev/hexo-theme-fluid))主题，效果如站所示。</a></p><p>此外，<strong>Butterfly</strong></p><p><img src="https://img-blog.csdnimg.cn/20190816091627682.png" alt="Butterfly效果图"></p><p><strong>ICARUS</strong></p><p><img src="https://pic1.zhimg.com/80/v2-941bf65324d8b5d40e50395732a8344e_1440w.webp" alt=""></p><p><strong>Melody</strong></p><p><img src="https://img-blog.csdnimg.cn/20190816091738576.png" alt=""></p><p><strong>Nexmoe</strong></p><p><img src="https://img-blog.csdnimg.cn/20190816091825224.png" alt=""></p><p><strong>Diaspora</strong></p><p><img src="https://img-blog.csdnimg.cn/2019081609290340.png" alt=""></p><p><strong>black-blue</strong></p><p><img src="https://img-blog.csdnimg.cn/20190816094113571.png" alt=""></p><p>嘶现在这个是不是最丑。。。</p>]]></content>
     
     
     <categories>
       
-      <category>生活</category>
+      <category>站内</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>随笔</tag>
+      <tag>文档</tag>
       
     </tags>
     
